@@ -5,7 +5,7 @@ let nav = document.createElement("Section");
 nav.setAttribute("class","header d-flex justify-content-between align-items-center bg-dark text-white p-3");
 navbar.appendChild(nav);
 
-let logo = document.createElement("div");
+let logo = document.createElement("div"); 
 logo.setAttribute("class","ps-3");
 nav.appendChild(logo);
 
