@@ -18,7 +18,7 @@ let div3 = document.createElement("div");
 div3.setAttribute("class","col-2");
 let i1 = document.createElement("i");
 i1.setAttribute("class","icon bi bi-facebook  fs-2")
-div3.appendChild(i1);
+div3.appendChild(i1); 
 div2.appendChild(div3);
 
 
